@@ -5,9 +5,11 @@ programa
 	{
 		
 		/**
-		 * Escreva um algoritmo que realize a operação de adição ou de subtração conforme a escolha do usuário.
+		 * pt-br: Escreva um algoritmo que realize a operação de adição ou de subtração conforme a escolha do usuário.
 		 * O programa deve seguir executando até que o usuário digite como opção de escolha o valor zero.
 		 */
+		 
+		/* en-us: Write an algorithm that performs an addition or subtraction operation according to the user's choice */
 		 
 		real n1, n2
 		inteiro op 
@@ -48,14 +50,3 @@ programa
 		
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 492; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
