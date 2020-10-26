@@ -1,16 +1,15 @@
+/*	
+Crie um programa que receba via teclado um numero inteiro e mostre ao usuario: 
+se este n° é igual a zero, ou;
+se este n° é negativo, ou;
+se este n° é par , ou;
+se este nº é impar;
+*/
 programa
 {
 	
 	funcao inicio()
-	{
-		/*	
-		 * 	Crie um programa que receba via teclado um numero inteiro e mostre ao usuario: 
-		 * 	se este n° é igual a zero, ou;
-		 * 	se este n° é negativo, ou;
-		 * 	se este n° é par , ou;
-		 *	se este nº é impar;
-		 */
-		
+	{	
 		inteiro n 
 		escreva("Informe um valor para n: ")
 		leia (n)

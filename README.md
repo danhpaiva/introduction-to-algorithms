@@ -10,7 +10,7 @@ I was able to exercise:
 Codes made in Portugol.
 
 ## Tools used
-- Visual Studio Code
+- Portugol Studio
 
 ## lock: Licence
 
