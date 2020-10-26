@@ -1,6 +1,14 @@
 # :smile: Description
 Exercises that exemplify the use of the basic structures used in the creation of algorithms
 
+I was able to exercise:
+- Conditional Structures
+- Logical Structures
+- Repeating Structures
+- Functions
+
+Codes made in Portugol.
+
 ## Tools used
 - Visual Studio Code
 
